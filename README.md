@@ -36,7 +36,7 @@
 
 # :robot: Sobre
 
-O intuito é partir de um algoritmo e chegar uma aplicação que pode ser utilizada por usuários não programadores. 
+O intuito é partir de um algoritmo e chegar numa aplicação que pode ser utilizada por usuários não programadores. 
 
 Para tal, utilizou-se como interface o Telegram. 
 
@@ -67,7 +67,7 @@ Esse projeto está sob a licença MIT. Consulte [LICENSE](https://github.com/Bon
 
 # :blue_book: Referências
 
-- Obrigado ao upklyak e outros pelos vetores no [Freepik](https://br.freepik.com/)
+- Obrigado upklyak e outros pelos vetores no [Freepik](https://br.freepik.com/)
 - Binary Knapsack problem with dp solution [GeeksforGeeks](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
 - Printable knapsack problem solution [GeeksforGeeks](https://www.geeksforgeeks.org/printing-items-01-knapsack/)
 

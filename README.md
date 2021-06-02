@@ -36,11 +36,11 @@
 
 # :robot: Sobre
 
-O intuito é partir de um algoritmo e chegar numa aplicação que pode ser utilizada por usuários não programadores. 
+O intuito é partir de um algoritmo (knapsack) e chegar numa aplicação que pode ser utilizada por usuários não programadores. 
 
-Para tal, utilizou-se como interface o Telegram. 
+Para tal, utilizou-se como interface de  comunicação com o usuário o aplicativo do Telegram. 
 
-O usuário para informações sobre itens, valores, pesos e capacidade da mochila e o chatbot retorna quais itens o usuário deve colocar na mochila para levar o máximo de valor possível.
+O usuário passa informações sobre itens, valores, pesos e capacidade da mochila e o chatbot retorna quais itens o usuário deve colocar na mochila para levar o máximo de valor possível respeitando a capacidade da mochila.
 
 No exemplo da imagem o chatbot retorna apenas a câmera fotográfica.
 
